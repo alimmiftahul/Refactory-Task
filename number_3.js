@@ -1,4 +1,4 @@
-function printTriangle(n) {
+function printTriangle(num) {
     let row;
     for (let i = 1; i <= n; i++) {
         row = "";
